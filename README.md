@@ -1,1 +1,1 @@
-# spinner.github.io
+# https://vidukapoor.github.io/spinner/
